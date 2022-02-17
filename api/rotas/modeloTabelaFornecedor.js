@@ -20,8 +20,8 @@ const opcoes = {
   frezzeTableName: true,
   tableName: 'fornecedores',
   timestamps: true,
-  createAt: 'dataCriacao',
-  updateAt: 'dataAtualizacao',
+  createdAt: 'dataCriacao',
+  updatedAt: 'dataAtualizacao',
   version: 'versao'
 }
 
